@@ -50,12 +50,6 @@ The tool uses a sophisticated 4-step process:
 
 ### Running the Application
 
-**Option 1: Using the Launcher (Recommended for beginners)**
-```bash
-python run.py
-```
-
-**Option 2: Direct Streamlit Command**
 ```bash
 streamlit run app.py
 ```
